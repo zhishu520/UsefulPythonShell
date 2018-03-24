@@ -13,3 +13,6 @@
 
 ## `split_file.py`
 切割文件，制作多个cdkey的时候，需要切割。
+
+## `change_uires_png_name.py`
+根据美术给的中文名，命名png成拼音。。。。
